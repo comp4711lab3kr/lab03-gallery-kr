@@ -1,3 +1,4 @@
+<!--
 <table cols="3" class="gallery">
     <tr>
         <td class="oneimage">
@@ -11,5 +12,7 @@
         </td>
     </tr>
 </table>
+-->
+{thetable}
 <h1>This is just a simple image gallery :)</h1>
 <p>The images above are the three most recently posted.</p>
