@@ -1,33 +1,36 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Hai Hua Tan(Ryan) (Captain) & Kuanysh (Mate)  
 Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## *Version x.x*
+## *Version 0.1*
 
-Release Date: Jul 26, 2027
+Release Date: Sep 21, 2017
 
 ## New Components
 
 -   controllers
 
-    -   serbian (AB)
-    
+    -   about (Kuanysh)
+    -   gallery (Kuanysh)
+
+-   views
+
+    -   welcome (Kuanysh)
+    -   about (Kuanysh)
+    -   gallery (Kuanysh)
+
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   None
 
 -   models
 
-    -   italian (AB)
+    -   None
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
-
-
+    -   None
