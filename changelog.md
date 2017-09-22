@@ -25,7 +25,10 @@ Release Date: Sep 21, 2017
 
 -   controllers
 
-    -   None
+    -   BaseController (Ryan)
+    -   Welcome (Ryan)
+    -   About (Ryan)
+    -   Gallery (Ryan)
 
 -   models
 
@@ -33,4 +36,7 @@ Release Date: Sep 21, 2017
 
 -   views
 
-    -   None
+    -   welcome (Ryan)
+    -   about (Ryan)
+    -   gallery (Ryan)
+    -   template (Ryan)
