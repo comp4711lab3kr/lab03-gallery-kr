@@ -29,6 +29,9 @@ Release Date: Sep 21, 2017
     -   welcome (Kuanysh)
     -   gallery (Kuanysh)
 
+-   configure
+    -   rename database.php to database.example.php so that the ignore entry takes effect
+
 ## *Version 0.1*
 
 Release Date: Sep 21, 2017
