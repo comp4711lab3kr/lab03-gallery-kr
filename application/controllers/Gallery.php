@@ -23,6 +23,8 @@ class Gallery extends Application
 		$this->data['pagebody'] = 'welcome_message';
 		$this->render();
 		*/
-		$this->load->view('gallery');
+		//$this->load->view('gallery');
+        $this->data['pagebody'] = 'gallery';
+        $this->render();
 	}
 }
